@@ -1,3 +1,7 @@
+<p align="center">
+    <img alt="Gatsby" src="./banner.jpg" width="full" />
+</p>
+
 <h2 align="center">
     Hi rekans 👋, Repository ini sebagai roadmap berbagai macam aplikasi menggunakan Next JS yang dibuat oleh komunitas Next JS Indonesia 
 </h2>
