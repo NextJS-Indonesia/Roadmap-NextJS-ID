@@ -5,3 +5,6 @@
 ## 🌎 🔎
 
 - [Next Auth](https://github.com/ekaone/NextJS-Auth)
+- [Next MySQL](https://github.com/ekaone/Next-MySQL)
+- [Next JSON Web Token](https://github.com/ekaone/NextJS-JWT-Auth)
+- [Next Sanity.io](https://github.com/ekaone/sanity-nextjs-landing-pages)
